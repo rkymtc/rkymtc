@@ -15,7 +15,7 @@
 
 
 [![Rukiye's github stats](https://github-readme-stats.vercel.app/api?username=rkymtc&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/rkymtc/github-readme-stats)
-<img width="35%" align="right" alt="Github" src="https://cdn.freebiesupply.com/logos/large/2x/besiktas-jk-1-logo-svg-vector.svg" />
+<img width="35%" align="right" alt="Github" src="https://media.istockphoto.com/vectors/young-female-character-working-on-a-computer-programming-code-front-vector-id1127581242?b=1&k=20&m=1127581242&s=170667a&w=0&h=Ogihw5HU_eJpkCJCQs6IT_JO9UqkFTB3afxOWunT_jk=" />
 
 
 
