@@ -1,6 +1,7 @@
 
 
-<h1 align="center"> Hi 👋, I'm Rukiye.. <img width="35%" align="center" alt="Github" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" /></h1>
+<h1 align="center"> Hi 👋, I'm Rukiye.. </h1>
+<p><img width="35%" align="center" alt="Github" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
