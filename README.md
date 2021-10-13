@@ -10,9 +10,15 @@
 
 </p>
 
+<br />
 
-[gmail]: mailto:rukiyemotcu@gmail.com
 
+
+[linkedin]: https://www.linkedin.com/in/rkymtc/
+[medium]: https://rkymtc.medium.com/
+[gmail]: mailto:rukiyemotcu@gmail.com/
+[patika]: https://app.patika.dev/rkymtc/
+<br />
 
 
 
