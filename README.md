@@ -12,9 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fer-ay%2F&count_bg=%23862348&title_bg=%23292929&icon=codacy.svg&icon_color=%23E5D0D0&title=hits+daily%2Ftotal&edge_flat=false)](https://hits.seeyoufarm.com)
 
--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkymtc&show_icons=true&locale=en&layout=compact" alt="rkymtc" /></p>
 
 -<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkymtc&show_icons=true&locale=en" alt="rkymtc" /></p>
 
