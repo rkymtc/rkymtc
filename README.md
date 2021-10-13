@@ -1,5 +1,4 @@
 
-<img width="35%" align="right" alt="Github" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" />
 
 <h1 align="center">Hi 👋, I'm Rukiye.. </h1>
 <h3 align="left">Connect with me:</h3>
@@ -10,6 +9,8 @@
 
 
 [![Rukiye's github stats](https://github-readme-stats.vercel.app/api?username=rkymtc&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/rkymtc/github-readme-stats)
+<img width="35%" align="right" alt="Github" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" />
+
 <p></p>
 <br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkymtc&label=Profile%20views&color=0e75b6&style=flat" alt="rkymtc" /> </p>
