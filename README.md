@@ -12,7 +12,8 @@
 <a href="https://www.hackerrank.com/rkymtc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rkymtc" height="30" width="40" /></a>
 
 </p>
-
+<p></p>
+<br></br>
 <img width="35%" align="right" alt="Github" src="https://zepel.io/blog/content/images/2021/03/7-ways-to-improve-dev-productivity.png" />
 
 [![Rukiye's github stats](https://github-readme-stats.vercel.app/api?username=rkymtc&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/rkymtc/github-readme-stats)
