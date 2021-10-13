@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkymtc&label=Profile%20views&color=0e75b6&style=flat" alt="rkymtc" /> </p>
 
+<img width="35%" align="right" alt="Github" src="https://www.pngitem.com/pimgs/m/63-632129_office-png-work-office-icon-png-transparent-png.png" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +16,6 @@
 
 
 [![Rukiye's github stats](https://github-readme-stats.vercel.app/api?username=rkymtc&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/rkymtc/github-readme-stats)
-<img width="35%" align="right" alt="Github" src="https://www.pngitem.com/pimgs/m/63-632129_office-png-work-office-icon-png-transparent-png.png" />
 
 
 
