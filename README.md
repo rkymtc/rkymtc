@@ -16,4 +16,4 @@
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulazizcan&label=Profile%20views&color=0e75b6&style=flat" alt="abdulazizcan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rkymtc&label=Profile%20views&color=0e75b6&style=flat" alt="rkymtc" /> </p>
