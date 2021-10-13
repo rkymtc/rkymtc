@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 
 
 
-<img align="left" alt="Eresh's GitHub Stats" src="https://<--Your vercel instance for stats-->/api?username=ereshzealous&show_icons=true&hide_border=true" />
 
 ### 📩 Connect with me:
 
