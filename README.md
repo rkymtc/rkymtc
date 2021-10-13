@@ -11,7 +11,7 @@
 
 
 [![Rukiye's github stats](https://github-readme-stats.vercel.app/api?username=rkymtc&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/rkymtc/github-readme-stats)
-<img width="350" align="right" alt="Github" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47ojyngur18gr5uaq7dt4ll622n3ddgq3uk2hdx80m&rid=giphy.gif&ct=g" />
+<img width="320" align="right" alt="Github" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47ojyngur18gr5uaq7dt4ll622n3ddgq3uk2hdx80m&rid=giphy.gif&ct=g" />
 <p></p>
 <br></br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rkymtc&label=Profile%20views&color=0e75b6&style=flat" alt="rkymtc" /> </p>
