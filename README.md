@@ -2,7 +2,8 @@
 
 <h1 align="center"> Hi 👋, I'm Rukiye.. </h1>
 <img width="300" align="center" alt="Github" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" />
-
+<p></p>
+<br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rkymtc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rkymtc" height="30" width="40" /></a>
