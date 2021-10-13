@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkymtc&label=Profile%20views&color=0e75b6&style=flat" alt="rkymtc" /> </p>
 
-<img width="35%" align="right" alt="Github" src="https://www.pngitem.com/pimgs/m/63-632129_office-png-work-office-icon-png-transparent-png.png" />
+<img width="35%" align="right" alt="Github" src="https://zepel.io/blog/content/images/2021/03/7-ways-to-improve-dev-productivity.png" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
