@@ -7,11 +7,11 @@
 <a href="https://linkedin.com/in/rkymtc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rkymtc" height="30" width="40" /></a>
 <a href="https://medium.com/@rkymtc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rkymtc" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rkymtc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rkymtc" height="30" width="40" /></a>
-[gmail]: mailto:rukiyemotcu@gmail.com
 
 </p>
 
 
+[gmail]: mailto:rukiyemotcu@gmail.com
 
 
 
