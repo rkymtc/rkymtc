@@ -10,21 +10,7 @@
 
 </p>
 
-<br />
 
-
-
-[linkedin]: https://www.linkedin.com/in/rkymtc/
-[medium]: https://rkymtc.medium.com/
-[gmail]: mailto:rukiyemotcu@gmail.com/
-[patika]: https://app.patika.dev/rkymtc/
-<br />
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkymtc&" alt="rkymtc" /></p>
 
 [![Rukiye's github stats](https://github-readme-stats.vercel.app/api?username=rkymtc&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/rkymtc/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkymtc)](https://github.com/rkymtc/github-readme-stats)
