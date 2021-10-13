@@ -1,7 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Rukiye.. </h1>
 
+<h3 align="center">Core Member at Global AI Hub</h3>
 
+
+<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rkymtc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rkymtc" height="30" width="40" /></a>
