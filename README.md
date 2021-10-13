@@ -15,7 +15,7 @@
 
 
 [![Rukiye's github stats](https://github-readme-stats.vercel.app/api?username=rkymtc&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/rkymtc/github-readme-stats)
-<img width="35%" align="right" alt="Github" src="https://images.bjk.com.tr/images/news/kulubumuzden-aciklama_705x400_000067.jpg />
+<img width="35%" align="right" alt="Github" src="https://cdn.freebiesupply.com/logos/large/2x/besiktas-jk-1-logo-svg-vector.svg" />
 
 
 
